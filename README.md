@@ -130,7 +130,7 @@ Con esto se comprobó que GNS3 podía localizar la herramienta necesaria para co
 # 6. Estructura del proyecto
 
 La estructura principal del repositorio es:
-'''
+```
 automatizacion-redes/
 │
 ├── README.md
@@ -150,7 +150,7 @@ automatizacion-redes/
         ├── instalacion.md
         ├── configuracion.md
         └── verificacion.md
-
+```
 La carpeta src contiene el código fuente, tests las pruebas, data los datos utilizados y docs la documentación y evidencias de la práctica.
 
 # 7. Problemas encontrados y soluciones
