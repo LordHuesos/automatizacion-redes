@@ -130,26 +130,26 @@ Con esto se comprobó que GNS3 podía localizar la herramienta necesaria para co
 # 6. Estructura del proyecto
 
 La estructura principal del repositorio es:
-
-automatizacion-redes/ <br>
-│<br>
-├── README.md<br>
-├── requirements.txt<br>
-│<br>
-├── src/<br>
-│<br>
-├── tests/<br>
-│<br>
-├── data/<br>
-│<br>
-└── docs/<br>
+'''
+automatizacion-redes/
+│
+├── README.md
+├── requirements.txt
+│
+├── src/
+│
+├── tests/
+│
+├── data/
+│
+└── docs/
     │<br>
-    └── practica-01/<br>
-        │<br>
-        ├── evidencias/<br>
-        ├── instalacion.md<br>
-        ├── configuracion.md<br>
-        └── verificacion.md<br>
+    └── practica-01/
+        │
+        ├── evidencias/
+        ├── instalacion.md
+        ├── configuracion.md
+        └── verificacion.md
 
 La carpeta src contiene el código fuente, tests las pruebas, data los datos utilizados y docs la documentación y evidencias de la práctica.
 
