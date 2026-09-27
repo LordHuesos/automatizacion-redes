@@ -1,13 +1,10 @@
 # automatizacion-redes
 
 # 1. Datos del equipo
-Integrantes
-
-Joshua García Huerta
-
-Victor Martinez Curiel
-
-Jonathan de Luna 
+Integrantes<br>
+Joshua García Huerta<br>
+Victor Martinez Curiel<br>
+Jonathan de Luna <br>
 
 Nombre de la materia: Automatización de Infraestructura Digital I
 
@@ -134,25 +131,25 @@ Con esto se comprobó que GNS3 podía localizar la herramienta necesaria para co
 
 La estructura principal del repositorio es:
 
-automatizacion-redes/
-│
-├── README.md
-├── requirements.txt
-│
-├── src/
-│
-├── tests/
-│
-├── data/
-│
-└── docs/
-    │
-    └── practica-01/
-        │
-        ├── evidencias/
-        ├── instalacion.md
-        ├── configuracion.md
-        └── verificacion.md
+automatizacion-redes/ <br>
+│<br>
+├── README.md<br>
+├── requirements.txt<br>
+│<br>
+├── src/<br>
+│<br>
+├── tests/<br>
+│<br>
+├── data/<br>
+│<br>
+└── docs/<br>
+    │<br>
+    └── practica-01/<br>
+        │<br>
+        ├── evidencias/<br>
+        ├── instalacion.md<br>
+        ├── configuracion.md<br>
+        └── verificacion.md<br>
 
 La carpeta src contiene el código fuente, tests las pruebas, data los datos utilizados y docs la documentación y evidencias de la práctica.
 
