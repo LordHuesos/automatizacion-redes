@@ -2,8 +2,11 @@
 
 # 1. Datos del equipo
 Integrantes
+
 Joshua García Huerta
+
 Victor Martinez Curiel
+
 Jonathan de Luna 
 
 Nombre de la materia: Automatización de Infraestructura Digital I
